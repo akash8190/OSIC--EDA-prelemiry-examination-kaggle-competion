@@ -1,0 +1,1 @@
+# OSIC--EDA-prelemiry-examination-kaggle-competion
